@@ -1,0 +1,19 @@
+{
+  "name": "zero-bundle-js",
+  "version": "1.0.0",
+  "description": "This package has been created to minify your javascript file size to 0kb",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "zero",
+    "bundle",
+    "fast",
+    "js",
+    "minify",
+    "js."
+  ],
+  "author": "Paras Sharma",
+  "license": "ISC"
+}
